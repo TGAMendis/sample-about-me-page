@@ -1,2 +1,2 @@
 # sample-about-me-page
-This is a sample About Me Page Suggestion
+This is a sample "About Me" page Suggestion
